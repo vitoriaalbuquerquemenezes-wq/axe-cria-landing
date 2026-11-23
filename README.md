@@ -1,7 +1,6 @@
 # Axé Cria
 
-Site da produtora cultural **Axé Cria**, desenvolvido como projeto de grupo da disciplina de Engenharia de Software para demonstrar o uso de **GitHub + Cloud (Vercel)** com deploy automático.
-
+A Axé Cria é uma produtora cultural de terreiro que atualmente desenvolve o projeto Axé Criativo, realizando uma série de atividades voltadas aos povos de terreiro. Este repositório contém o código do site institucional da iniciativa, uma aplicação de página única desenvolvida com HTML, CSS e JavaScript e publicada na Vercel. A plataforma foi projetada com foco na experiência de uso, contando com navegação por teclado, menu acessível, layout responsivo adaptado do celular ao desktop, galeria de atividades com sistema de filtros e agendamento direto pelo WhatsApp.
 🔗 **Site online:** [(https://axe-cria-landing-six.vercel.app/)]
 
 ## Tecnologias

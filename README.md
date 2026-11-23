@@ -27,14 +27,3 @@ Site da produtora cultural **Axé Cria**, desenvolvido como projeto de grupo da 
 2. Enviamos para a branch `main` do GitHub (`git add .`, `git commit`, `git push`).
 3. A Vercel detecta a mudança na `main`.
 4. Ela faz o build e o deploy sozinha, e o site atualizado fica online em segundos.
-
-## Equipe
-
-- [Vitoria Menezes]
-- [Ana Reis]
-- [Emerson Heytor]
-- [Miguel Martins]
-
-## Disciplina
-
-2026.2 - NSIN-0102 - [nome completo da disciplina] - Prof. [nome do professor]
